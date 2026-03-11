@@ -23,13 +23,24 @@ Supported GPUs: RTX 2080 Ti, RTX 2080 Super, RTX 2080, RTX 2070 Super, RTX 2070,
 
 download
 https://github.com/novanandriyono/llama_cpp_python_sm_75-windows11/releases/download/llama_cpp_python-0.3.16%2Bcu124-cp311-cp311-win11_amd64_rm_75/llama_cpp_python-0.3.16+cu124-cp311-cp311-win11_amd64_rm_75.whl
+
+
 then install
 `pip install llama_cpp_python-0.3.16+cu124-cp311-cp311-win11_amd64_rm_75.whl`
+
 or
+
+
 `
 pip install "https://github.com/novanandriyono/llama_cpp_python_sm_75-windows11/releases/download/llama_cpp_python-0.3.16%2Bcu124-cp311-cp311-win11_amd64_rm_75/llama_cpp_python-0.3.16+cu124-cp311-cp311-win11_amd64_rm_75.whl"
 `
+
+
 or
+
+
 `python -m pip install "https://github.com/novanandriyono/llama_cpp_python_sm_75-windows11/releases/download/llama_cpp_python-0.3.16%2Bcu124-cp311-cp311-win11_amd64_rm_75/llama_cpp_python-0.3.16+cu124-cp311-cp311-win11_amd64_rm_75.whl
 `
+
+
 https://sociabuzz.com/prinsia/
