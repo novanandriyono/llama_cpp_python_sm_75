@@ -21,4 +21,15 @@ Japanese (日本語):
 RTX 20 Series & Turing Professional (Turing - sm_75)
 Supported GPUs: RTX 2080 Ti, RTX 2080 Super, RTX 2080, RTX 2070 Super, RTX 2070, RTX 2060 Super, RTX 2060, TITAN RTX, GTX 1660 Ti, GTX 1660 Super, GTX 1660, GTX 1650 Super, GTX 1650, GTX 1630, Quadro RTX 8000, RTX 6000, RTX 5000, RTX 4000, Tesla T4
 
+download
+https://github.com/novanandriyono/llama_cpp_python_sm_75-windows11/releases/download/llama_cpp_python-0.3.16%2Bcu124-cp311-cp311-win11_amd64_rm_75/llama_cpp_python-0.3.16+cu124-cp311-cp311-win11_amd64_rm_75.whl
+then install
+`pip install llama_cpp_python-0.3.16+cu124-cp311-cp311-win11_amd64_rm_75.whl`
+or
+`
+pip install "https://github.com/novanandriyono/llama_cpp_python_sm_75-windows11/releases/download/llama_cpp_python-0.3.16%2Bcu124-cp311-cp311-win11_amd64_rm_75/llama_cpp_python-0.3.16+cu124-cp311-cp311-win11_amd64_rm_75.whl"
+`
+or
+`python -m pip install "https://github.com/novanandriyono/llama_cpp_python_sm_75-windows11/releases/download/llama_cpp_python-0.3.16%2Bcu124-cp311-cp311-win11_amd64_rm_75/llama_cpp_python-0.3.16+cu124-cp311-cp311-win11_amd64_rm_75.whl
+`
 https://sociabuzz.com/prinsia/
